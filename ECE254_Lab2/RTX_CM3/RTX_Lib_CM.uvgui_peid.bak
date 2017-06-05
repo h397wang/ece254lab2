@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProjectGui xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_gui.xsd">
+
+  <SchemaVersion>-3.1</SchemaVersion>
+
+  <Header>### uVision Project, (C) Keil Software</Header>
+
+  <ViewPool/>
+
+  <SECTreeCtrl>
+    <View>
+      <WinId>38003</WinId>
+      <ViewName>Registers</ViewName>
+      <TableColWidths>115 257</TableColWidths>
+    </View>
+    <View>
+      <WinId>346</WinId>
+      <ViewName>Code Coverage</ViewName>
+      <TableColWidths>1047 160</TableColWidths>
+    </View>
+    <View>
+      <WinId>204</WinId>
+      <ViewName>Performance Analyzer</ViewName>
+      <TableColWidths>1207</TableColWidths>
+    </View>
+  </SECTreeCtrl>
+
+  <TreeListPane>
+    <View>
+      <WinId>1506</WinId>
+      <ViewName>Symbols</ViewName>
+      <UserString></UserString>
+      <TableColWidths>133 133 133</TableColWidths>
+    </View>
+    <View>
+      <WinId>1936</WinId>
+      <ViewName>Watch 1</ViewName>
+      <UserString></UserString>
+      <TableColWidths>133 133 133</TableColWidths>
+    </View>
+    <View>
+      <WinId>1937</WinId>
+      <ViewName>Watch 2</ViewName>
+      <UserString></UserString>
+      <TableColWidths>133 133 133</TableColWidths>
+    </View>
+    <View>
+      <WinId>1935</WinId>
+      <ViewName>Call Stack + Locals</ViewName>
+      <UserString></UserString>
+      <TableColWidths>133 133 133</TableColWidths>
+    </View>
+    <View>
+      <WinId>2506</WinId>
+      <ViewName>Trace Data</ViewName>
+      <UserString></UserString>
+      <TableColWidths>75 135 130 95 70 230 200</TableColWidths>
+    </View>
+  </TreeListPane>
+
+  <WindowSettings>
+    <LogicAnalizer>
+      <ShowLACursor>0</ShowLACursor>
+      <ShowSignalInfo>0</ShowSignalInfo>
+      <ShowCycles>0</ShowCycles>
+    </LogicAnalizer>
+  </WindowSettings>
+
+  <WinLayoutEx>
+    <sActiveDebugView></sActiveDebugView>
+    <WindowPosition>
+      <length>44</length>
+      <flags>0</flags>
+      <showCmd>1</showCmd>
+      <MinPosition>
+        <xPos>-1</xPos>
+        <yPos>-1</yPos>
+      </MinPosition>
+      <MaxPosition>
+        <xPos>-1</xPos>
+        <yPos>-1</yPos>
+      </MaxPosition>
+      <NormalPosition>
+        <Top>117</Top>
+        <Left>61</Left>
+        <Right>1298</Right>
+        <Bottom>1033</Bottom>
+      </NormalPosition>
+    </WindowPosition>
+    <MDIClientArea>
+      <RegID>0</RegID>
+      <MDITabState>
+        <Len>999</Len>
+        <Data>0100000004000000010000000100000001000000010000000000000002000000000000000100000001000000000000002800000028000000010000000C00000000000000010000002A4E3A5C4543453235345F4C6162325C5254585F4170705C7372635C6D61696E5F7461736B5F6578702E63000000000F6D61696E5F7461736B5F6578702E6300000000F0A0A100FFFFFFFF244E3A5C4543453235345F4C6162325C5254585F434D335C494E435C52544C5F6578742E68000000000952544C5F6578742E68000000009CC1B600FFFFFFFF27633A5C536F6674776172655C4B65696C5C41524D5C525633315C494E435C5254585F6C69622E6300000000095254585F6C69622E6300000000A5C2D700FFFFFFFF2B4E3A5C4543453235345F4C6162325C5254585F434D335C5352435C434D5C72745F5461736B5F6578742E63000000000D72745F5461736B5F6578742E6300000000C5D4F200FFFFFFFF274E3A5C4543453235345F4C6162325C5254585F434D335C5352435C434D5C72745F5461736B2E63000000000972745F5461736B2E6300000000BECEA100FFFFFFFF294E3A5C4543453235345F4C6162325C5254585F434D335C5352435C434D5C72745F4D656D426F782E68000000000B72745F4D656D426F782E6800000000D9ADC200FFFFFFFF274E3A5C4543453235345F4C6162325C5254585F434D335C5352435C434D5C72745F4C6973742E63000000000972745F4C6973742E6300000000C5D4F200FFFFFFFF2D4E3A5C4543453235345F4C6162325C5254585F434D335C5352435C434D5C72745F4D656D426F785F6578742E63000000000F72745F4D656D426F785F6578742E6300000000FFDC7800FFFFFFFF2A4E3A5C4543453235345F4C6162325C5254585F434D335C5352435C434D5C72745F547970654465662E68000000000C72745F547970654465662E6800000000C5D4F200FFFFFFFF2A4E3A5C4543453235345F4C6162325C5254585F434D335C5352435C434D5C5254585F436F6E6669672E68000000000C5254585F436F6E6669672E6800000000B3A6BE00FFFFFFFF204E3A5C4543453235345F4C6162325C5254585F434D335C494E435C52544C2E68000000000552544C2E6800000000BCA8E100FFFFFFFF294E3A5C4543453235345F4C6162325C5254585F434D335C5352435C434D5C72745F4D656D426F782E63000000000B72745F4D656D426F782E6300000000F7B88600FFFFFFFF0100000010000000C5D4F200FFDC7800BECEA100F0A0A100BCA8E1009CC1B600F7B88600D9ADC200A5C2D700B3A6BE00EAD6A300F6FA7D00B5E99D005FC3CF00C1838300CACAD500010000000000000002000000C7010000E30000000A050000BE020000</Data>
+      </MDITabState>
+    </MDIClientArea>
+  </WinLayoutEx>
+
+  <AlienFiles>
+    <Doc>
+      <Name>N:\ECE254_Lab2\RTX_CM3\INC\RTL.h</Name>
+      <ColumnNumber>0</ColumnNumber>
+      <TopLine>375</TopLine>
+      <CurrentLine>385</CurrentLine>
+    </Doc>
+    <Doc>
+      <Name>N:\ECE254_Lab2\RTX_CM3\SRC\CM\rt_MemBox.h</Name>
+      <ColumnNumber>0</ColumnNumber>
+      <TopLine>1</TopLine>
+      <CurrentLine>15</CurrentLine>
+    </Doc>
+    <Doc>
+      <Name>c:\Software\Keil\ARM\RV31\INC\RTX_lib.c</Name>
+      <ColumnNumber>0</ColumnNumber>
+      <TopLine>37</TopLine>
+      <CurrentLine>45</CurrentLine>
+    </Doc>
+    <Doc>
+      <Name>N:\ECE254_Lab2\RTX_CM3\SRC\CM\RTX_Config.h</Name>
+      <ColumnNumber>0</ColumnNumber>
+      <TopLine>4</TopLine>
+      <CurrentLine>20</CurrentLine>
+    </Doc>
+    <Doc>
+      <Name>N:\ECE254_Lab2\RTX_CM3\SRC\CM\rt_TypeDef.h</Name>
+      <ColumnNumber>0</ColumnNumber>
+      <TopLine>63</TopLine>
+      <CurrentLine>40</CurrentLine>
+    </Doc>
+    <Doc>
+      <Name>N:\ECE254_Lab2\RTX_CM3\INC\RTL_ext.h</Name>
+      <ColumnNumber>0</ColumnNumber>
+      <TopLine>77</TopLine>
+      <CurrentLine>114</CurrentLine>
+    </Doc>
+  </AlienFiles>
+
+</ProjectGui>
